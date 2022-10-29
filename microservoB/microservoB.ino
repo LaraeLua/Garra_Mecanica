@@ -20,3 +20,5 @@ void loop(){
     delay(15); //INTERVALO DE 15 MILISSEGUNDOS
   }
 }
+
+//MOTOR INCONSTANTE
